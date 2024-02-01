@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Year 1, Semester 2 at The University of Leeds. 
+Studying MSc Computer Science (w/ Year in Industry).
+
 <!--
 **srthomp/srthomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
